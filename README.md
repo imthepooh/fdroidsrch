@@ -1,2 +1,3 @@
 # fdroidsrch
-Search apps in F-droid using provided search keyword
+Telegram bot to search apps in F-droid using provided search keyword
+using telegram python bot module and beautifulsoup , deployed as google cloud function
