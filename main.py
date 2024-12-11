@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
-import urllib 
+import urllib
 import os
 import telegram
 
