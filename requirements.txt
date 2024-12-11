@@ -2,5 +2,5 @@
 # package>=version
 python-telegram-bot==11.1.0
 beautifulsoup4==4.8.1
-urllib3==1.26.5
+urllib3==1.26.19
 
